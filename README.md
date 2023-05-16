@@ -26,20 +26,30 @@ All component lists have to been given below.
 Component list - 
 
 •	PCB by JLCPCB
+
 •	Transistor - BC 557, BC 547
+
 •	Triac - BT - 136
+
 •	Resistor - 1 KΩ, 68KΩ, 100 KΩ  and 220 Ω
+
 •	MIC
+
 •	AC Bulb
+
 •	DC - 9v
+
 •	Bulb Holder
 
 
 Feature of CD4017 - 
 
 •	Used in LED matrix, LED chaser and other LED projects
+
 •	Binary counter or Binary decoder
+
 •	Can be used for divide by N counting
+
 •	Remote metering, automotive, medical electronics
 
 
@@ -49,11 +59,17 @@ BT136 is a triac, which is a type of electronic switch that is commonly used in 
 Here are some of the features of the BT136 triac - 
 
 •	Maximum voltage rating of 600 volts.
+
 •	Maximum current rating of the bt136 is 4 amperes.
+
 •	Gate current of 30 milliamperes or less.
+
 •	Temperature range of -40°c to +125°c.
+
 •	The bt136 is available in a to-220ab package
+
 •	Making it suitable for ac power control applications.
+
 •	It has a built-in voltage protection circuit
 
 
@@ -63,10 +79,15 @@ Feature of BC-557
 The BC-557 is a general purpose PNP transistor commonly used in low power amplification.
 
 •	Maximum collector current rating 150mA
+
 •	Maximum collector-emitter voltage rating 50v
+
 •	Suitable for use in audio amplification
+
 •	High DC current gain
+
 •	Low voltage drop, typically around 0.7v
+
 •	C557 is also available in TO-92, SOT-23 and SOT-323 package.
 
 
@@ -75,10 +96,15 @@ Feature of BC-547
 The BC547 is widely used general-purpose NPN bipolar junction transistor.
 
 •	Suitable for use in low-noise amplification circuit
+
 •	DC current gain ranging from 110 to 800
+
 •	Low voltage drop, typically around 0.7v
+
 •	Maximum collector current rating of 100mA
+
 •	Maximum collector-emitter voltage rating of 45V
+
 •	BC547 is also available in TO-92, SOT-23 and SOT-223 package.
 
 
@@ -87,7 +113,9 @@ Triac Pin Out -
 The BT136 is a triac, which is a three-terminal electronic component used for controlling AC power. Here is the pinout of the BT136 triac.
 
 •	T1 
+
 •	T2
+
 •	Gate
 
 Transistor Pin Out - 
@@ -97,7 +125,9 @@ BC557
 The pin arrangement may vary depending on the manufacturer or package type, but the pin functions remain the same.
 
 •	Collector
+
 •	Base
+
 •	Emitter
 
 
@@ -106,7 +136,9 @@ BC 547
 The pin arrangement may vary depending on the manufacturer or package type, but the pin functions remain the same.
 
 •	Collector
+
 •	Base
+
 •	Emitter
 
 
@@ -179,13 +211,21 @@ Steps to Order SMT PCBs from JLCPCB -
 To order your SMT PCBs, visit JLCPCB.
 
 •	Drag and drop SMT PCBs file on site.
+
 •	Choose your PCBs color and quantity.
+
 •	To free SMT assembly for your PCB click on “SMT Assembly” button and then confirm.
+
 •	Add your BOM file and CPL file.
-•	Place your order click on “Save to Cart” button.
+
+•	Place your order click on “Save to Cart” button
+.
 •	Confirm your shipping address and shipping method.
+
 •	Pay your payment
+
 •	Wait for confirmation mail.
+
 •	For SMT Service, Click here.
 
 
@@ -196,12 +236,19 @@ JLCPCB supported all shipping method can be seen below.
 Estimated Delivery Time
 
 •	DHL International Express 3-5 business days
+
 •	UPS Worldwide Saver 3-6 business days
+
 •	S.F Express (Standard) 5-8 business days
+
 •	S.F Express (Economy) 8-15 business days
+
 •	Singapore EMS 8-15 business days
+
 •	Post Link Registered Mail 15-20 business days
+
 •	ePacket 15-25 business days
+
 •	Registered Air Mail 15-20 business days
 
 
@@ -209,7 +256,9 @@ Estimated Delivery Time
 JLCPCB supported Payment method - 
 
 •	PayPal
+
 •	Credit/Debit Care
+
 •	Prepaid wire transfer
 
 
