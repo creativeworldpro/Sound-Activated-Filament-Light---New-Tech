@@ -21,6 +21,8 @@ To make a mini music light, the circuit can be enclosed in a small plastic or me
 
 Additional components, such as capacitors, resistors, filament bulb or transistors, can be added to the circuit to control the brightness or flashing pattern of the filament bulb.
 
+
+
 All component lists have to been given below.
 
 Component list - 
@@ -42,6 +44,8 @@ Component list -
 •	Bulb Holder
 
 
+
+
 Feature of CD4017 - 
 
 •	Used in LED matrix, LED chaser and other LED projects
@@ -51,6 +55,8 @@ Feature of CD4017 -
 •	Can be used for divide by N counting
 
 •	Remote metering, automotive, medical electronics
+
+
 
 
 Feature of BT-136
@@ -74,6 +80,7 @@ Here are some of the features of the BT136 triac -
 
 
 
+
 Feature of BC-557
 
 The BC-557 is a general purpose PNP transistor commonly used in low power amplification.
@@ -89,6 +96,8 @@ The BC-557 is a general purpose PNP transistor commonly used in low power amplif
 •	Low voltage drop, typically around 0.7v
 
 •	C557 is also available in TO-92, SOT-23 and SOT-323 package.
+
+
 
 
 Feature of BC-547
@@ -108,6 +117,8 @@ The BC547 is widely used general-purpose NPN bipolar junction transistor.
 •	BC547 is also available in TO-92, SOT-23 and SOT-223 package.
 
 
+
+
 Triac Pin Out -
 
 The BT136 is a triac, which is a three-terminal electronic component used for controlling AC power. Here is the pinout of the BT136 triac.
@@ -117,6 +128,9 @@ The BT136 is a triac, which is a three-terminal electronic component used for co
 •	T2
 
 •	Gate
+
+
+
 
 Transistor Pin Out - 
 
@@ -129,6 +143,9 @@ The pin arrangement may vary depending on the manufacturer or package type, but 
 •	Base
 
 •	Emitter
+
+
+
 
 
 BC 547
@@ -206,6 +223,7 @@ Click on “Gerber Viewer” button you can check the PCBs design. Make sure eve
 If you are a new user, then you can order 10 pieces PCBs, costing only $2. To place your order click on “Save to Cart”  button. Confirm your shipping address and shipping method.
 
 
+
 Steps to Order SMT PCBs from JLCPCB - 
 
 To order your SMT PCBs, visit JLCPCB.
@@ -229,6 +247,8 @@ To order your SMT PCBs, visit JLCPCB.
 •	For SMT Service, Click here.
 
 
+
+
 Shipping and Billing
 
 JLCPCB supported all shipping method can be seen below.
@@ -250,6 +270,7 @@ Estimated Delivery Time
 •	ePacket 15-25 business days
 
 •	Registered Air Mail 15-20 business days
+
 
 
 
